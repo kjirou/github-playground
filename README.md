@@ -1,9 +1,10 @@
-gittest
+GitHub usage
 =======
 
-Git control test for me!
+GitHub/Git sandbox for me
 
-###test block
+
+## Markdown testing
 ```
 aaa
 bbb
