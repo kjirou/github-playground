@@ -1,4 +1,4 @@
-GitHub usage
+Sandbox
 =======
 
 GitHub/Git sandbox for me
