@@ -16,4 +16,5 @@ bbb
     - Gii!
 
 - [test.txt](test.txt)
-- ![kjirou](http://kjirou.net/hagure-metal.png)
+- [hagure-metal.png](http://kjirou.net/hagure-metal.png)
+- ![hagure-metal](http://kjirou.net/hagure-metal.png)
