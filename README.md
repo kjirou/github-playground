@@ -2,11 +2,13 @@ Sandbox
 =======
 
 
-## Markdown testing
+## Markdown formats
 ```
-aaa
-bbb
+block code
+block code
 ```
+
+`inline code`
 
 - hip
   - hop
@@ -17,4 +19,5 @@ bbb
 
 - [test.txt](test.txt)
 - [hagure-metal.png](http://kjirou.net/hagure-metal.png)
-- ![hagure-metal](http://kjirou.net/hagure-metal.png)
+
+![hagure-metal](http://kjirou.net/hagure-metal.png)
