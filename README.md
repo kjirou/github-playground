@@ -1,8 +1,6 @@
 Sandbox
 =======
 
-GitHub/Git sandbox for me
-
 
 ## Markdown testing
 ```
@@ -18,3 +16,4 @@ bbb
     - Gii!
 
 - [test.txt](test.txt)
+- ![kjirou](http://kjirou.net/hagure-metal.png)
