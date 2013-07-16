@@ -1,14 +1,14 @@
 Sandbox
 =======
 
-GitHub/Git sandbox for me
 
+## Markdown formats
+```
+block code
+block code
+```
 
-## Markdown testing
-```
-aaa
-bbb
-```
+`inline code`
 
 - hip
   - hop
@@ -18,3 +18,6 @@ bbb
     - Gii!
 
 - [test.txt](test.txt)
+- [hagure-metal.png](http://kjirou.net/hagure-metal.png)
+
+![hagure-metal](http://kjirou.net/hagure-metal.png)
