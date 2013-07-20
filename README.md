@@ -2,7 +2,8 @@ Sandbox
 =======
 
 
-## Markdown formats
+## Markdown samples
+
 ```
 block code
 block code
@@ -21,3 +22,8 @@ block code
 - [hagure-metal.png](http://kjirou.net/hagure-metal.png)
 
 ![hagure-metal](http://kjirou.net/hagure-metal.png)
+
+
+## Related Links for markdown
+
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
