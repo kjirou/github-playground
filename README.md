@@ -23,6 +23,7 @@ block code
 
 ![hagure-metal](http://kjirou.net/hagure-metal.png)
 
+[![Vote](http://voting-badge.herokuapp.com/img?url=http://dap.intergames.jp/)](http://voting-badge.herokuapp.com/vote?url=http://dap.intergames.jp/)
 
 ## Related Links for markdown
 
