@@ -1,5 +1,5 @@
-Issue を作るときは以下のことに気を付けてね！
+Welcome your contributing!
 
-- 清く
-- 正しく
-- 美しく
+- Foo
+- Bar
+- Baz
