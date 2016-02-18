@@ -23,7 +23,6 @@ block code
 
 ![hagure-metal](http://kjirou.net/hagure-metal.png)
 
-[![Vote](http://voting-badge.herokuapp.com/img?url=https://github.com/kjirou/sandbox/blob/master/README.md)](http://voting-badge.herokuapp.com/vote?url=https://github.com/kjirou/sandbox/blob/master/README.md)
 
 ## Related Links for markdown
 
