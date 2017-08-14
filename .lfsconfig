@@ -1,2 +1,2 @@
 [lfs]
-  url = ssh://-oProxyCommand='echo 111111111111111111111111111111'
+  url = ssh://-oProxyCommand='touch lol.txt'
