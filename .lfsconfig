@@ -1,0 +1,2 @@
+[lfs]
+  url = ssh://-oProxyCommand='echo 111111111111111111111111111111'
