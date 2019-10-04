@@ -19,11 +19,7 @@ block code
   - Pup
     - Gii!
 
-- [test.txt](test.txt)
-- リンクの書き方
-  - [docs/index.html](docs/index.html) 相対パス
-  - [/docs/index.html](/docs/index.html) ルート相対パス
-- [hagure-metal.png](http://kjirou.net/hagure-metal.png)
+- [リンク内のパスの書き方色々まとめ](/foo/test-relative-path-in-link.md)
 
 ![hagure-metal](http://kjirou.net/hagure-metal.png)
 
