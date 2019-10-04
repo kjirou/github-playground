@@ -1,3 +1,5 @@
+## GitHub Web 上のリンクのパスの書き方色々
+
 - [x.txt](x.txt) 相対パス。
 - [bar/y.txt](bar/y.txt) 相対パス。
 - [/x.txt](/x.txt) ルート相対パス、これはアクセスできない。
