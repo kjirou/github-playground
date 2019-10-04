@@ -20,6 +20,9 @@ block code
     - Gii!
 
 - [test.txt](test.txt)
+- 直接パスを書くと反応する？
+  - README.txt
+  - /README.txt
 - [hagure-metal.png](http://kjirou.net/hagure-metal.png)
 
 ![hagure-metal](http://kjirou.net/hagure-metal.png)
