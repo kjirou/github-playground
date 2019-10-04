@@ -1,0 +1,4 @@
+- [x.txt](x.txt) 相対パス。
+- [bar/y.txt](bar/y.txt) 相対パス。
+- [/x.txt](/x.txt) ルート相対パス、これはアクセスできない。
+- [/README.md](/README.md) ルート相対パス、これはアクセスできる。
