@@ -1,7 +1,4 @@
-Sandbox
-=======
-
-Hello hello
+# GitHub Playground
 
 ## Markdown samples
 
