@@ -1,3 +1,4 @@
+# Tested to calls the action in https://github.com/kjirou/dotfiles/pull/3 .
 name: 'Hello World'
 description: 'Greet someone'
 inputs:
